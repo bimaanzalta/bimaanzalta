@@ -4,9 +4,10 @@
 
 **Full-stack Developer** · Crafting web & mobile experiences across the full stack
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hotama.co.id-7c5cff?style=flat-square&logo=globe&logoColor=white)](https://hotama.co.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Burnian%20Collective-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/burniancollective/)
-[![Instagram](https://img.shields.io/badge/Instagram-@kreasiputrahotama-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kreasiputrahotama/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anzalta.cloud-7c5cff?style=flat-square&logo=globe&logoColor=white)](https://anzalta.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bima--anzalta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bima-anzalta-0bb03517a/)
+[![Instagram](https://img.shields.io/badge/Instagram-@21anzalta-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/21anzalta/)
+[![X](https://img.shields.io/badge/X-@anzerota-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/anzerota)
 [![GitHub followers](https://img.shields.io/github/followers/bimaanzalta?style=flat-square&color=7c5cff)](https://github.com/bimaanzalta)
 
 </div>
