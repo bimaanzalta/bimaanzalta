@@ -14,6 +14,18 @@
 
 ---
 
+## Support
+
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61WHJPX)
+&nbsp;
+<a href="https://trakteer.id/bima_anzalta" target="_blank"><img src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=14-05-2025" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+
+</div>
+
+---
+
 ## About Me
 
 Full-stack developer with experience across web and mobile — from REST APIs and server-side rendering to cross-platform mobile apps and Web3 integrations. I enjoy building expressive, well-crafted products that are fast, functional, and visually engaging.
@@ -77,6 +89,18 @@ Full-stack developer with experience across web and mobile — from REST APIs an
     </td>
   </tr>
 </table>
+
+## Support
+
+If you find my work helpful, consider supporting me:
+
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61WHJPX)
+&nbsp;
+<a href="https://trakteer.id/bima_anzalta" target="_blank"><img src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=14-05-2025" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+
+</div>
 
 ---
 
