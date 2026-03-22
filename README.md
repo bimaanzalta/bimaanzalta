@@ -11,7 +11,8 @@
 
 ---
 
-## Tech Stack
+<details>
+<summary><strong>Tech Stack</strong></summary>
 
 | Category | Technologies |
 |----------|-------------|
@@ -21,6 +22,8 @@
 | **Auth** | JWT (jose), bcryptjs, HTTP-only cookies |
 | **AI / Integrations** | OpenRouter (Claude / Gemini), WhatsApp Baileys, MyAnimeList API, Live2D Cubism |
 | **Deployment** | PM2, Nginx, Node.js |
+
+</details>
 
 ---
 
