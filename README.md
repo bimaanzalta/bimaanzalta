@@ -78,6 +78,18 @@ Full-stack developer with experience across web and mobile — from REST APIs an
   </tr>
 </table>
 
+## Support
+
+If you find my work helpful, consider supporting me:
+
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61WHJPX)
+&nbsp;
+<a href="https://trakteer.id/bima_anzalta" target="_blank"><img src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=14-05-2025" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+
+</div>
+
 ---
 
 <div align="center">
