@@ -2,150 +2,85 @@
 
 # Hi, I'm Bima Anzalta 👋
 
-**Full-stack Developer** · Building web apps with modern Nuxt & Vue stack
+**Full-stack Developer** · Crafting web & mobile experiences across the full stack
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anzalta.cloud-7c5cff?style=flat-square&logo=globe)](https://anzalta.cloud)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hotama.co.id-7c5cff?style=flat-square&logo=globe&logoColor=white)](https://hotama.co.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Burnian%20Collective-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/burniancollective/)
+[![Instagram](https://img.shields.io/badge/Instagram-@kreasiputrahotama-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kreasiputrahotama/)
 [![GitHub followers](https://img.shields.io/github/followers/bimaanzalta?style=flat-square&color=7c5cff)](https://github.com/bimaanzalta)
 
 </div>
 
 ---
 
-<details>
-<summary><strong>Tech Stack</strong></summary>
+## About Me
 
-| Category | Technologies |
-|----------|-------------|
-| **Framework** | Nuxt 4/3, Vue 3 (Composition API) |
-| **Styling** | Tailwind CSS, Glassmorphism, Neon UI |
-| **Database** | MySQL, Drizzle ORM, Prisma |
-| **Auth** | JWT (jose), bcryptjs, HTTP-only cookies |
-| **AI / Integrations** | OpenRouter (Claude / Gemini), WhatsApp Baileys, MyAnimeList API, Live2D Cubism |
-| **Deployment** | PM2, Nginx, Node.js |
-
-</details>
+Full-stack developer with experience across web and mobile — from REST APIs and server-side rendering to cross-platform mobile apps and Web3 integrations. I enjoy building expressive, well-crafted products that are fast, functional, and visually engaging.
 
 ---
 
-## Projects
+## Tech Stack
 
-### 🌐 [anzalta](https://github.com/bimaanzalta/anzalta)
-Personal portfolio website with **anime/web3 aesthetic** — dark backgrounds, neon accents, glassmorphism UI, and a built-in blog & admin CMS.
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-`Nuxt 4` `Vue 3` `TailwindCSS` `Drizzle ORM` `SQLite` `@nuxt/content`
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-<details>
-<summary>Read more</summary>
+### Frontend
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-- Full portfolio showcase with project cards, tech stack, and live links
-- Markdown-based blog with draft/publish toggle and syntax highlighting
-- Hidden admin CMS for managing projects, blog posts, and contact messages
-- Scroll-reveal animations via `v-motion`, page transitions, glassmorphism cards
-- Design: `#0f0f14` background · `#7c5cff` primary · `#00d1ff` secondary · `#ff4fd8` highlight
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 
-</details>
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
-
-### 🌿 [eco-ngo-bot](https://github.com/bimaanzalta/eco-ngo-bot)
-WhatsApp AI donation manager for environmental NGOs. Donors simply chat on WhatsApp — the AI bot guides the entire donation process automatically with receipt verification and admin dashboard.
-
-`Nuxt 3` `WhatsApp Baileys` `OpenRouter AI` `MySQL` `Prisma` `RBAC`
-
-<details>
-<summary>Read more</summary>
-
-- Multi-account WhatsApp bot management — each bot assignable to a specific campaign
-- AI-powered conversation via OpenRouter (Claude / Gemini / Llama) — guides donors step by step
-- Donors send transfer receipt photo → stored to database → admin verify/reject via dashboard
-- Automatic WhatsApp notification to donor after verification
-- Three-role RBAC: Super Admin, Admin, Verifikator
-- Multi-campaign support with real-time statistics
-
-</details>
-
----
-
-### 💅 [aura-beauty](https://github.com/bimaanzalta/aura-beauty)
-Full-stack beauty management system for salons, nail/lash studios, and spas — POS, booking calendar, inventory, staff management, and sales reports.
-
-`Nuxt 3` `Vue 3` `Pinia` `MySQL` `TailwindCSS` `Xendit Payment`
-
-<details>
-<summary>Read more</summary>
-
-- **POS / Kasir** — service & product transactions, discounts, cash/transfer/QRIS payment
-- **Booking** — daily calendar, anti double-booking, appointment status
-- **Inventory** — stock auto-decremented on transaction, physical stock opname
-- **Staff** — CRUD with role management (owner / admin / staff)
-- **Reports** — daily summary, top services/products, date filter
-- Three roles: Owner (full access), Admin, Staff
-
-</details>
+### Web3
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 ---
 
-### 🎮 [levelup](https://github.com/bimaanzalta/levelup)
-Learning Management System for gaming & esports with a retrofuturism dark neon aesthetic — courses, video lessons, quiz, progress tracking, and certificate generation.
+## Part Of
 
-`Nuxt 4` `Prisma` `MySQL` `TailwindCSS` `JWT`
-
-<details>
-<summary>Read more</summary>
-
-- Course browsing with category filter and search
-- Video player with sidebar navigation and lesson completion marking
-- Progress tracking — % completion per course, continue learning
-- Multiple choice quiz with score and pass/fail result
-- Certificate generation after course completion + quiz passed
-- Admin CMS — CRUD for courses, modules, lessons, quizzes, categories, instructors
-- Design: retrofuturism dark neon (`#7C3AED` purple · `#06B6D4` cyan · `#0B0F1A` background)
-
-</details>
-
----
-
-### 🎌 [my-anime-media](https://github.com/bimaanzalta/my-anime-media)
-Indonesian anime & manga media platform — articles, reviews, forum discussions, and MyAnimeList API integration with rich text editor and light/dark mode.
-
-`Nuxt 4` `Drizzle ORM` `MySQL` `TipTap` `MAL OAuth 2.0` `VueUse`
-
-<details>
-<summary>Read more</summary>
-
-- Articles & reviews with rich text editor (TipTap v3), categories, and anime tagging
-- Forum — threaded discussions with nested comments and category support
-- Anime search and detail via MyAnimeList API (OAuth 2.0 PKCE)
-- Role system: user / moderator / admin with admin panel
-- Persistent light/dark mode toggle via VueUse + localStorage
-- Responsive layout with mobile hamburger nav
-
-</details>
-
----
-
-### 🎭 [proseka-ai](https://github.com/bimaanzalta/proseka-ai)
-Web-based Live2D viewer for Project SEKAI characters with real-time Japanese lip sync, AI chat powered by OpenRouter, and VITS voice synthesis via ProsekaTTS.
-
-`Nuxt 3` `PixiJS` `Live2D Cubism 4` `OpenRouter AI` `ProsekaTTS` `kuromoji`
-
-<details>
-<summary>Read more</summary>
-
-- Live2D Cubism 4 model rendering via `pixi-live2d-display`
-- AI chat with character-specific personalities (Google Gemini Flash via OpenRouter)
-- High-quality VITS voice synthesis with 20 Project SEKAI character voices (ProsekaTTS)
-- Frame-accurate lip sync — phoneme timeline built from kuromoji, mouth parameters driven every frame
-- Web Speech API fallback with `onboundary` recalibration for offline use
-- Idle animations, expression buttons (smile, sad, angry, surprise, shy), adjustable speech rate
-- Admin panel — manage characters, models, songs, and view chat history
-
-</details>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/company/burniancollective/">
+        <strong>Burnian Collective</strong>
+      </a><br/>
+      <sub>Creative &amp; Tech Collective</sub>
+    </td>
+    <td align="center">
+      <a href="https://hotama.co.id">
+        <strong>Hotama</strong>
+      </a><br/>
+      <sub>hotama.co.id</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
-*Building expressive, motion-first web experiences*
+*Building expressive, full-stack experiences — web, mobile, and beyond*
 
 </div>
